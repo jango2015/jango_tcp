@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JangoWindowsFiles", "JangoWindowsFiles\JangoWindowsFiles.csproj", "{3A7867CE-4188-427E-B0CC-690BB75F626A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP_Server", "JP_Server\JP_Server.csproj", "{A9CF1625-9F21-4A45-9F00-DAEFE08AFC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP_Client", "JP_Client\JP_Client.csproj", "{24E0B1CE-37CA-4FD6-85ED-97F7D551FC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7867CE-4188-427E-B0CC-690BB75F626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7867CE-4188-427E-B0CC-690BB75F626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7867CE-4188-427E-B0CC-690BB75F626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7867CE-4188-427E-B0CC-690BB75F626A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CF1625-9F21-4A45-9F00-DAEFE08AFC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CF1625-9F21-4A45-9F00-DAEFE08AFC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CF1625-9F21-4A45-9F00-DAEFE08AFC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CF1625-9F21-4A45-9F00-DAEFE08AFC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E0B1CE-37CA-4FD6-85ED-97F7D551FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E0B1CE-37CA-4FD6-85ED-97F7D551FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E0B1CE-37CA-4FD6-85ED-97F7D551FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E0B1CE-37CA-4FD6-85ED-97F7D551FC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Server\bin\Debug\JP_Server.exe.config
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Server\obj\Debug\JP_Server.csprojResolveAssemblyReference.cache
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Server\bin\Debug\JP_Server.exe
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Server\bin\Debug\JP_Server.pdb
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Server\obj\Debug\JP_Server.exe
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Server\obj\Debug\JP_Server.pdb

@@ -1,0 +1,12 @@
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\bin\Debug\JangoWindowsFiles.exe.config
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\bin\Debug\JangoWindowsFiles.exe
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\bin\Debug\JangoWindowsFiles.pdb
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.csprojResolveAssemblyReference.cache
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.Form1.resources
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.Properties.Resources.resources
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.csproj.GenerateResource.Cache
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.exe
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.pdb
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.Form2.resources
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.FormMain.resources
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JangoWindowsFiles\obj\Debug\JangoWindowsFiles.UC_PictureBoxWithLbCk.resources

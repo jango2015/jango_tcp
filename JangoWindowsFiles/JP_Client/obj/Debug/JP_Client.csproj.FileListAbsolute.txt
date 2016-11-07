@@ -1,0 +1,5 @@
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Client\bin\Debug\JP_Client.exe.config
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Client\bin\Debug\JP_Client.exe
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Client\bin\Debug\JP_Client.pdb
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Client\obj\Debug\JP_Client.exe
+D:\workspace\JangoWindowsFiles\JangoWindowsFiles\JP_Client\obj\Debug\JP_Client.pdb
